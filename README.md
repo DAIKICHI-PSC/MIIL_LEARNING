@@ -11,6 +11,4 @@ PySide2
 
 numpy
 
-cv2
-
 If you have any other required libraries, please install them.
